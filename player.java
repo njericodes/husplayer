@@ -1,4 +1,4 @@
-ackage student_player;
+package student_player;
 
 import hus.HusBoardState;
 import hus.HusPlayer;
